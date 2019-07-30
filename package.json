@@ -1,0 +1,26 @@
+{
+  "name": "money-exchange",
+  "version": "1.0.0",
+  "description": "The smallest money conversion library that actually works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimdenGD/money-exchange.git"
+  },
+  "keywords": [
+    "money",
+    "conversion",
+    "converter",
+    "conversation",
+    "fixer"
+  ],
+  "author": "dimden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimdenGD/money-exchange/issues"
+  },
+  "homepage": "https://github.com/dimdenGD/money-exchange"
+}
