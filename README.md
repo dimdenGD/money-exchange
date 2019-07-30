@@ -2,6 +2,8 @@
 The smallest money conversion library that actually works.\
 `25` lines of code, `0` dependencies.
 
+Install with `npm i money-exchange`.
+
 ## Usage
 
 ```js
