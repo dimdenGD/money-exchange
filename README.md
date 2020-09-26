@@ -1,8 +1,8 @@
 # money-exchange
-The smallest money conversion library that actually works.\
-`25` lines of code, `0` dependencies.
-
-Install with `npm i money-exchange`.
+The smallest money conversion library that actually works.  
+`25` lines of code, `0` dependencies.  
+  
+Install with `npm i money-exchange`.  
 
 ## Usage
 
@@ -18,10 +18,10 @@ fx.init().then(() => {
 ## API
 
 #### .init(source)
-You'll need to init the library first to make it work. Init installs currency data from https://api.exchangeratesapi.io/latest.\
-If this API will die you can set other, there's a lot of websites providing same JSON syntax tree.\
-\
-Returns promise.
+You'll need to init the library first to make it work. Init installs currency data from https://api.exchangeratesapi.io/latest .  
+If this API will die you can set other one, there's a lot of websites providing same JSON syntax tree.  
+  
+Returns promise.  
 #### .convert(amount, from, to)
 Converts money. you can see all currencies with `.rates`.
 
